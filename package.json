@@ -1,0 +1,34 @@
+{
+	"name": "react",
+	"version": "1.0.0",
+	"description": "This is a react app",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/neha-kiran/react.git"
+	},
+	"author": "Neha Kiran",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/neha-kiran/react/issues"
+	},
+	"homepage": "https://github.com/neha-kiran/react#readme",
+	"devDependencies": {
+		"parcel": "^2.13.3",
+		"postcss": "^8.5.3",
+		"process": "^0.11.10",
+		"tailwindcss": "^4.0.8"
+	},
+	"dependencies": {
+		"react": "^18.2.8",
+		"react-dom": "^18.2.8",
+		"react-router-dom": "^6.11.2"
+	},
+	"browserslist": [
+		"last 2 versions"
+	]
+}
